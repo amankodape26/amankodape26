@@ -1,18 +1,23 @@
-# Hi 👋, I'm Aman Kodape
+# Hi there 👋, I'm Aman Kodape
 
-### 🚀 B.Tech IT Student at Vishwakarma Institute of Technology, Pune
+## 🚀 About Me
 
-I'm passionate about building real-world software and embedded systems using Python, AI, ESP32, and Arduino. I enjoy solving problems, learning new technologies, and contributing to projects that have practical impact.
+🎓 Second-Year B.Tech Information Technology Student at Vishwakarma Institute of Technology, Pune
 
-## 👨‍💻 About Me
+💻 Passionate about Software Development, Artificial Intelligence, Embedded Systems, and IoT.
 
-* 🎓 B.Tech Information Technology Student
-* 🤖 Interested in Artificial Intelligence & Machine Learning
-* 🔌 IoT Developer using ESP32 & Arduino
-* 🐍 Python Programmer
-* 🌱 Currently learning Deep Learning, NLP, and Data Structures
+🌱 Currently learning:
 
-## 🛠 Tech Stack
+* Python
+* Artificial Intelligence
+* Machine Learning
+* Deep Learning
+* Natural Language Processing
+* ESP32 & Arduino
+
+---
+
+## 🛠️ Tech Stack
 
 * Python
 * C
@@ -22,13 +27,17 @@ I'm passionate about building real-world software and embedded systems using Pyt
 * Git
 * GitHub
 
-## 🚀 Projects
+---
 
-* Gesture Controlled Air Mouse
-* Voice Controlled Home Automation
-* Arduino Radar System
-* Visitor Counter System
-* Temperature Monitoring System
+## 🚀 Featured Projects
+
+* 🤖 Gesture Controlled Air Mouse
+* 🏠 Voice Controlled Home Automation
+* 📡 Arduino Radar System
+* 🌡️ Temperature Monitoring System
+* 🐍 Python Mini Projects
+
+---
 
 ## 📜 Certifications
 
@@ -37,7 +46,11 @@ I'm passionate about building real-world software and embedded systems using Pyt
 * Introduction to Natural Language Processing – Infosys Springboard
 * Artificial Intelligence Foundation Certification – Infosys Springboard
 
+---
+
 ## 📫 Connect with Me
 
 * LinkedIn: https://www.linkedin.com/in/aman-kodape-482b73385
 * GitHub: https://github.com/amankodape26
+
+⭐ Always learning. Always building.
